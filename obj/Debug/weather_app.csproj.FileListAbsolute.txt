@@ -1,0 +1,21 @@
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\bin\Debug\weather_app.exe.config
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app.csprojResolveAssemblyReference.cache
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\MainWindow.baml
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\MainWindow.g.cs
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\App.g.cs
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app_MarkupCompile.cache
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app.g.resources
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app.Properties.Resources.resources
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app.csproj.GenerateResource.Cache
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\bin\Debug\weather_app.exe
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\bin\Debug\weather_app.pdb
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app.exe
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app.pdb
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\weather_app_Content.g.cs
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\bin\Debug\User.mdf
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\bin\Debug\User_log.ldf
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\Window1.baml
+c:\users\saul\documents\visual studio 2013\Projects\weather_app\weather_app\obj\Debug\Window1.g.cs
+C:\Users\Saul\weather_app\weather_app\weather_app\bin\Debug\weather_app.exe.config
+C:\Users\Saul\weather_app\weather_app\weather_app\obj\Debug\weather_app.exe
+C:\Users\Saul\weather_app\weather_app\weather_app\obj\Debug\weather_app.pdb
